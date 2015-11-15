@@ -14,6 +14,7 @@
 		71EB38D01BF852F1005484EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71EB38CE1BF852F1005484EC /* LaunchScreen.storyboard */; };
 		71EB38DB1BF852F1005484EC /* MyProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71EB38DA1BF852F1005484EC /* MyProjectTests.swift */; };
 		71EB38E61BF852F1005484EC /* MyProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71EB38E51BF852F1005484EC /* MyProjectUITests.swift */; };
+		71EB38F41BF8F7D4005484EC /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 71EB38F31BF8F7D4005484EC /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		71EB38E11BF852F1005484EC /* MyProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		71EB38E51BF852F1005484EC /* MyProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProjectUITests.swift; sourceTree = "<group>"; };
 		71EB38E71BF852F1005484EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71EB38F31BF8F7D4005484EC /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		71EB38B91BF852F1005484EC = {
 			isa = PBXGroup;
 			children = (
+				71EB38F31BF8F7D4005484EC /* .gitignore */,
 				71EB38C41BF852F1005484EC /* MyProject */,
 				71EB38D91BF852F1005484EC /* MyProjectTests */,
 				71EB38E41BF852F1005484EC /* MyProjectUITests */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71EB38F41BF8F7D4005484EC /* .gitignore in Resources */,
 				71EB38D01BF852F1005484EC /* LaunchScreen.storyboard in Resources */,
 				71EB38CD1BF852F1005484EC /* Assets.xcassets in Resources */,
 				71EB38CB1BF852F1005484EC /* Main.storyboard in Resources */,
